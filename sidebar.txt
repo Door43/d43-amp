@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amp:home|Door43 (amp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amp|d43-amp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amp/archive/master.zip|d43-amp.zip]]
+
+**Recent Changes**
+{{changes>ns = amp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amp|Ethnologue data]]
+
